@@ -87,16 +87,6 @@ repository and are [MIT licensed](./licenses/Fedora-LICENSE):
 * [`nodejs-tarball.sh`](../SOURCES/nodejs-tarball.sh)
 * [`npmrc`](../SOURCES/npmrc)
 
-## Osmosis
-
-The [Osmosis](https://wiki.openstreetmap.org/wiki/Osmosis) source archive was
-obtained directly from the [OpenStreetMap(https://bretth.dev.openstreetmap.org/osmosis-build/)
-project and was released into the public domain.
-
-The [`osmosis-fix_launcher.patch`](../SOURCES/osmosis-fix_launcher.patch) file
-comes from [Debian GIS Project](https://salsa.debian.org/debian-gis-team/osmosis/blob/master/debian/patches/01-fix_launcher.patch)
-and is licensed under the GPLv3.
-
 ## stxxl
 
 The [stxxl](http://stxxl.org/) source archives are obtained
