@@ -134,7 +134,7 @@ gpgcheck = 0
 
 [hoot-deps]
 name = Hootenanny Dependencies
-baseurl = https://hoot-repo.s3.amazonaws.com/el7/deps/release
+baseurl = https://hoot-repo.s3.amazonaws.com/el7/deps/stable
 enabled = 1
 gpgcheck = 1
 repo_gpgcheck = 1
